@@ -1,6 +1,6 @@
 # dafny-vscode
-Dafny support for Visual Studio Code.
-
+Dafny support for Visual Studio Code. This project [was forked into Dafny-VSCode](https://github.com/DafnyVSCode/Dafny-VSCode), where development continued - use that instead.
+Development of this branch stopped in 2016 and there is only rudimentary integratiion of Dafny.
 
 ## Features
 * Provides .dfy language id to vscode.
